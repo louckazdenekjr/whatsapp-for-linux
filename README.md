@@ -10,5 +10,5 @@ npm start
 build the application:
 npm run build-linux
 
-build the application for windows or mac:
+optionally build the application for windows or mac (please don't open issues for these builds):
 npm run build-win / npm run build-mac
