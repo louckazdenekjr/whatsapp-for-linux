@@ -29,3 +29,5 @@ app.on('activate', () => {
     createWindow()
   }
 })
+
+//devnotes: neccessary: icons
