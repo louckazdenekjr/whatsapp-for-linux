@@ -14,7 +14,7 @@
         "electron-builder": "^22.9.1"
     },
     "build":{
-        "icon": "icon.icns",
+        "icon": "build/icon.png",
         "files": ["**/*", "build/icon.*"]
     }
 }

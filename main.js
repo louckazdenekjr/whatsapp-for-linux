@@ -30,5 +30,4 @@ app.on('activate', () => {
   }
 })
 
-//devnotes: neccessary: icons
-//devnotes: optional: add repo image
+
