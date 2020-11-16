@@ -1,21 +1,12 @@
 # whatsapp-for-linux
-
-
-INSTALL DEPENDENCIES:
-
+install dependencies:
 npm install
 
-
-RUN THE APPLICATION:
-
+run the application:
 npm start
 
-
-BUILD THE APPLICATION:
-
+build the application:
 npm run build-linux
 
-
-BUILD THE APPLICATION FOR WINDOWS OR MAC:
-
+build the application for windows or mac:
 npm run build-win / npm run build-mac
