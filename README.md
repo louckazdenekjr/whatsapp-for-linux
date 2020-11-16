@@ -1,5 +1,5 @@
 # WhatsApp for Linux
-Node.JS/Electron/JavaScript
+JavaScript/Node.JS/Electron
 
 install dependencies:
 npm install
