@@ -1,0 +1,15 @@
+{
+    "name": "WhatsApp",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "build-win": "npx electron-builder build --win portable",
+        "build-mac": "npx electron-builder build --mac",
+        "build-linux": "npx electron-builder build --linux"
+    },
+    "devDependencies": {
+        "electron": "^10.1.5",
+        "electron-builder": "^22.9.1"
+    }
+}
