@@ -16,10 +16,10 @@
         "electron": "^10.1.5",
         "electron-builder": "^22.9.1"
     },
-    "build":{
-        "linux":{
-            "target": "deb",
-            "icon": "build/tpp-icon.icns"
-        }
+        "build":{
+            "linux":{
+                "target": "AppImage",
+                "icon": "build/icon.icns"
+            }
     }
 }
