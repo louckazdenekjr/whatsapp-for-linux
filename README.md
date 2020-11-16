@@ -1,4 +1,4 @@
-#whatsapp-for-linux
+# whatsapp-for-linux
 
 npm install
 
