@@ -1,7 +1,7 @@
 # WhatsApp for Linux
 JavaScript/Node.JS/Electron
 
-![screenshot](https://github.com/louckazdenekjr/whatsapp-for-linux/blob/master/screenshot/screenshot.png)
+![screenshot](https://github.com/louckazdenekjr/whatsapp-for-linux/blob/master/build/screenshot.png)
 
 install dependencies:
 npm install
