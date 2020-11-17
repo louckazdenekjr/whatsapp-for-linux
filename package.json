@@ -1,8 +1,8 @@
 {
     "name": "WhatsApp",
-    "author":{
+    "author": {
         "name": "Zdeněk Loučka",
-        "email" : "louckazdenekjr@gmail.com"
+        "email": "louckazdenekjr@gmail.com"
     },
     "version": "1.0.0",
     "main": "main.js",
@@ -16,10 +16,10 @@
         "electron": "^10.1.5",
         "electron-builder": "^22.9.1"
     },
-        "build":{
-            "linux":{
-                "target": "AppImage",
-                "icon": "build/icon.icns"
-            }
+    "build": {
+        "linux": {
+            "target": "AppImage",
+            "icon": "build/icon.icns"
+        }
     }
 }
