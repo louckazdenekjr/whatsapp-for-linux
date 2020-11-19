@@ -18,8 +18,7 @@
     },
     "build": {
         "linux": {
-            "target": "AppImage",
-            "icon": "build/icon.icns"
+            "target": "AppImage"
         }
     }
 }
