@@ -14,5 +14,5 @@ npm start
 build the application:
 npm run build-linux
 
-optionally build the application for windows or mac (please don't open issues for these builds):
+please note that you can build the application for windows or mac but it's not the purpose of this repo to support builds for these platforms:
 npm run build-win / npm run build-mac
