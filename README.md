@@ -3,6 +3,8 @@ JavaScript/Node.JS/Electron
 
 ![screenshot](https://github.com/louckazdenekjr/whatsapp-for-linux/blob/master/build/screenshot.png)
 
+---AppImage builds available under Releases---
+
 install dependencies:
 npm install
 
