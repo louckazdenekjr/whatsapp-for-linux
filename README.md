@@ -1,9 +1,10 @@
 # WhatsApp for Linux
 JavaScript/Node.JS/Electron
 
+---AppImage builds available under Releases---
+
 ![screenshot](https://github.com/louckazdenekjr/whatsapp-for-linux/blob/master/build/screenshot.png)
 
----AppImage builds available under Releases---
 
 install dependencies:
 npm install
