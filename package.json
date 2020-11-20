@@ -17,6 +17,7 @@
         "electron-builder": "^22.9.1"
     },
     "build": {
+        "icon": "./build/icon.png",
         "linux": {
             "target": "AppImage"
         }
