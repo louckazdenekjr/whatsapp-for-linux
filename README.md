@@ -13,11 +13,11 @@ JavaScript/Node.JS/Electron
 install dependencies:
 npm install
 
-run the application:
+run and test the application:
 comment out line "icon: path.join(process.env.APPDIR, "whatsapp.png")," to run in node.js, then: 
 npm start
 
-build the application:
+build the application: 
 npm run build-linux
 
 optionally build the application for windows or mac (please don't open issues for these builds):
