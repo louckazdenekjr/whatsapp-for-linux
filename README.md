@@ -14,6 +14,7 @@ install dependencies:
 npm install
 
 run the application:
+(comment out line "icon: path.join(process.env.APPDIR, "whatsapp.png")," to run in node.js)
 npm start
 
 build the application:
