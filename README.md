@@ -6,7 +6,7 @@ JavaScript/Node.JS/Electron
 ## getting the app
 **AppImage builds available under Releases**
 
-## screenshot
+### screenshot
 
 ![screenshot](https://github.com/louckazdenekjr/whatsapp-for-linux/blob/master/build/screenshot.png)
 
